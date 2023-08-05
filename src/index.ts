@@ -1,7 +1,5 @@
-
-
 const main = async () => {
-    console.log("hello world")
-}
+    console.log('hello world');
+};
 
 main().catch(console.error);
